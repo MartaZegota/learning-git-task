@@ -1,6 +1,6 @@
 shopping_dict = {
-    "apteka": ['przeciwbolowy', 'przeciwgoraczkowy', 'przeciwwzdeciowy'],
-    "warzywniak": ['marchew', 'seler', 'rukola']
+    "apteka": ['przeciwbolowy', 'przeciwgoraczkowy', 'przeciwwzdeciowy', 'przeciwkaszlowy'],
+    "warzywniak": ['marchew', 'seler', 'rukola', 'pomidor']
 }
 
 shop_dict = dict(shopping_dict)
